@@ -1,0 +1,12 @@
+<resources>
+
+    <string name="app_name">TransitandoSocial</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="codigo_respuesta">Este es el codigo de Respuesta</string>
+    <string name="autorizar">Autorizar</string>
+    <string name="mensajetwit"> Este tweet está enviado desde una aplicación de #Android en desarrollo....Esperanos </string>
+    <string name= "enviar">Enviar Twit</string>
+
+</resources>

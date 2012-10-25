@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    >
+    <TextView android:layout_gravity="center" android:layout_height="wrap_content" android:layout_width="wrap_content" android:text="Este es el codigo de respuesta" android:id="@+id/codigoRespuesta" android:layout_marginBottom="15dip"></TextView>
+    <Button android:layout_gravity="center" android:layout_height="wrap_content" android:layout_width="wrap_content" android:text="Autorizar" android:layout_marginBottom="30dip" android:id="@+id/botonAutorizar"></Button>
+    <TextView android:layout_height="wrap_content" android:layout_width="wrap_content" android:text="Este tweet está enviado desde una aplicación de #Android, con el seguimiento de una entrada de @vidasConcurrent" android:layout_gravity="center" android:id="@+id/tweet" android:layout_marginBottom="15dip"></TextView>
+    <Button android:layout_gravity="center" android:layout_height="wrap_content" android:layout_width="wrap_content" android:text="Enviar tweet" android:id="@+id/botonEnviarTweet"></Button>
+</LinearLayout>

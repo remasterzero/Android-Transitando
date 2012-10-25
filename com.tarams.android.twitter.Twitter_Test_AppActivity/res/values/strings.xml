@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, Twitter_Test_AppActivity!</string>
+    <string name="app_name">Twitter_Test_App</string>
+    <string name="out">Salir</string>
+    <string name="t">Tweet</string>
+    <string name="transito">Enviado via #Transitando App de trafico Villahermosa</string>
+</resources>
